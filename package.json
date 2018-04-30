@@ -1,0 +1,24 @@
+{
+  "name": "montain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kilometer1951/montain_travel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kilometer1951/montain_travel/issues"
+  },
+  "homepage": "https://github.com/kilometer1951/montain_travel#readme",
+  "dependencies": {
+    "ejs": "^2.5.9",
+    "express": "^4.16.3"
+  }
+}
